@@ -5,7 +5,6 @@ A simple and efficient QR Code Generator built using HTML, CSS, and JavaScript.
 ## Features
 
 - Generate QR codes for any text or URL.
-- Download the generated QR code as an image.
 - Responsive design for mobile and desktop.
 
 ## Demo
