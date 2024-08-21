@@ -9,7 +9,7 @@ A simple and efficient QR Code Generator built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-Check out the live demo [here](#).
+Check out the live demo [here](https://qr-code-generator-web-app.netlify.app).
 
 ## Technologies Used
 
