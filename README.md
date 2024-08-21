@@ -21,4 +21,4 @@ Check out the live demo [here](#).
 ## Screenshots
 
 ### QR Code Generator
-![QR](./home%20page.png)
+![QR](OR_Generator.png)
